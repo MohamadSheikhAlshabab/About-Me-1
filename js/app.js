@@ -93,7 +93,7 @@ for (var m = 0; m < 5; m++) {
      break;
   }
   else {
-    seasonsNumber = prompt(" try agin!");
+    userAnswer= prompt(" try agin!");
   }
 }
 alert('ur mark'+mark);
