@@ -8,10 +8,13 @@ main .box{
 main {text-align: center;}
 section { height: 75%; width: 100%; background-color: #696f72;text-align: center;}
 
-h2 { border: 5px solid #252323; padding: 20px; width: 275px;margin: auto;
+h2 {color: rgb(107, 23, 23); border: 5px solid #252323; padding: 20px; width: 275px;margin: auto;
   width: 50%;
    text-align: center; border-radius: 10px; -moz-border-radius: 10px; -webkit-border-radius: 10px;background-color: #bbbbaa;}
 
    footer {
     text-align: center;
    }
+
+ol{border: 1px solid #fad5d5; padding: 15px 5px; width: 275px;margin: auto;
+  width: 50%;}

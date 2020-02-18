@@ -71,7 +71,7 @@ for (var i = 0; i < 3; i++) {
 
   } else if (seasonsNumber == 5) {
     alert('the true answer is lower than 3');
-    seasonsNumber = prompt("you are so close!!..How many seasons are there in Sherlock Holmesseries?");
+    seasonsNumber = prompt("you are so close!!..How many seasons are there in Sherlock Holmes series?");
   }
   else {
     seasonsNumber = prompt("opps try agin!..How many seasons are there in Sherlock Holmesseries?");
