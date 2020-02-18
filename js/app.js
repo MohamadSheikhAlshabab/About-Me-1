@@ -26,7 +26,7 @@ if (myJOB.toLocaleLowerCase() === 'yes' || myJOB.toLocaleLowerCase() === 'y') {
 var address = prompt("do I have 1000000$ ? (Y/N)(Yes/No0");
 if (address.toLocaleLowerCase() === 'no' || address.toLocaleLowerCase() === 'n') {
   //console.log(address);
-  alert('yes ,unfortunately :(');
+  alert('unfortunately :(');
 } else {
   //console.log(address);
   mark++
@@ -63,6 +63,7 @@ for (var i = 0; i < 3; i++) {
   if (seasonsNumber == 4) {
     alert('yes!,its 4 ');
     mark++
+  //console.log(seasonsNumber);
     break;
   } else if (seasonsNumber == 3) {
 
@@ -78,7 +79,7 @@ for (var i = 0; i < 3; i++) {
   }
 
 }
-//console.log('i' + i);
+
 
 
 var series = ['sherlock', 'presion break', 'hannibal', 'mentalist'];
@@ -90,6 +91,7 @@ for (var m = 0; m < 5; m++) {
   if (userAnswer == series[0] || userAnswer == series[1] || userAnswer == series[2] || userAnswer == series[3]) {
     alert('yes!,they are : ' + series);
      mark++
+     //console.log(userAnswer);
      break;
   }
   else {
