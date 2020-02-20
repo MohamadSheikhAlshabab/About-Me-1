@@ -7,4 +7,5 @@ unsing for loop
 
 
 lab04
-put every single question inside  function.
+- put every single question inside  function.
+- i was driver  and mais was nav.
