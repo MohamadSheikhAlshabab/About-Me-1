@@ -98,9 +98,9 @@ var Q6 = (function q6() {
 })
   ();
 
-
-var Q7 = (function q7() {
   var series = ['mentalist', 'sherlock', 'presion break', 'hannibal'];
+var Q7 = (function q7() {
+  
 
 
   var userAnswer = prompt('what is my favorite tv show ?');
